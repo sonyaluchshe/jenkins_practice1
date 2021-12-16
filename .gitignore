@@ -1,0 +1,4 @@
+#Ignoring copmpiled files.
+~*
+*/.gradle
+*/build
